@@ -31,4 +31,12 @@
  * the provisions above, a recipient may use your version of this file under
  * the terms of any one of the MPL, the GPL or the LGPL.
  *
+ * 
+ * 
+ * Two Finger Swipe is based on Three Finger Swipe with some minor modifications.
+ * All credit belongs to the original author, Gomita.
+ * Two Finger Swipe is released under the same license as the original project
+ * (see the above license description).
+ * (c) 2014 <averageapps at gmail.com>
+ * 
  * ***** END LICENSE BLOCK ***** */

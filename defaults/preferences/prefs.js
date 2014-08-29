@@ -1,4 +1,4 @@
-pref("extensions.threefingerswipe.left", "prevtab");
-pref("extensions.threefingerswipe.right", "nexttab");
-pref("extensions.threefingerswipe.up", "blank");
-pref("extensions.threefingerswipe.down", "close");
+pref("extensions.twofingerswipe.left", "nexttab");
+pref("extensions.twofingerswipe.right", "prevtab");
+pref("extensions.twofingerswipe.up", "blank");
+pref("extensions.twofingerswipe.down", "close");
